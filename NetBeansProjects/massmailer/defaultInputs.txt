@@ -1,0 +1,8 @@
+587
+smtp.gmail.com
+avinashkumar1449@gmail.com
+abc
+root
+abc
+jdbc:mysql://192.168.101.166/addressbook
+emailID_List
