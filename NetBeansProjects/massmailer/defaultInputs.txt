@@ -1,8 +1,0 @@
-587
-smtp.gmail.com
-abc@gmail.com
-abc
-root
-abc
-jdbc:mysql://127.0.0.1/addressbook
-emailID_List
